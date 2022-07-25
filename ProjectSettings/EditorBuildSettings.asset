@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirstScenePastile.unity
+    guid: 1c48515fe7570fc46ab1679d61eae051
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: cd58b94268f1d2c48b557d2495efaebf
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: 6a548190a55455a43a0e9c92213eebf0
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 0c6f33ebd5295d64f876f691a0bb0fa0
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 0a18bc983fbc34346af79691abb84dd3
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: d27ab7f014605d847bc5f2a1dd54ad56
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: db2c806680dd05344bbd194c89e4b01a
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 630a7e5c6dbdb5a469f264b972d5f844
+  - enabled: 1
+    path: Assets/Scenes/DLC.unity
+    guid: 28e00517832162047a1c074b82902672
+  - enabled: 1
+    path: Assets/Scenes/AnimationLvl3.unity
+    guid: eebf6ba440aba9a4dac40080bc311b71
+  - enabled: 1
+    path: Assets/Scenes/JFK.unity
+    guid: dcb2ddd5d19c2c34eb200a3542155bfa
+  - enabled: 1
+    path: Assets/Scenes/Exil.unity
+    guid: c8ba9bf429cf2b94d99ce52ae78661e8
+  m_configObjects: {}
