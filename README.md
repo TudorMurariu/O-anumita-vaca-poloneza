@@ -1,1 +1,1 @@
-Install link: https://github.com/TudorMurariu/O-anumita-vaca-poloneza/new/master
+Install link: https://mega.nz/file/X5k3xQ5Z#ECNmbBCdc-srXLC_UebcsVk8mcDQtwKITs-YnHPWrPE
